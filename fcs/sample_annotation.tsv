@@ -1,0 +1,9 @@
+Filename	Sample	Group
+LD1_NS+NS_A01_exp.fcs	Donor1	No Stimulation
+LD1_NS+PI_C01_exp.fcs	Donor1	Stimulation_1
+LD1_PI+NS_B01_exp.fcs	Donor1	Stimulation_2
+LD1_PI+PI_D01_exp.fcs	Donor1	Stimulation
+LD2_NS+NS_A02_exp.fcs	Donor2	No Stimulation
+LD2_NS+PI_C02_exp.fcs	Donor2	Stimulation_1
+LD2_PI+NS_B02_exp.fcs	Donor2	Stimulation_2
+LD2_PI+PI_D02_exp.fcs	Donor2	Stimulation
